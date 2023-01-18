@@ -1,0 +1,9 @@
+## 파일 무시
+
+## 확장자 무시
+*.pyc
+
+## 폴더 무시
+chckpoints/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
