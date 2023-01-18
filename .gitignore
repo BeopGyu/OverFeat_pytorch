@@ -4,6 +4,6 @@
 *.pyc
 
 ## 폴더 무시
-chckpoints/
+checkpoints/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
